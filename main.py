@@ -1,0 +1,1 @@
+print("Hello! Tôi tên là Bùi Thị Xuân Hồng. Mã sinh viên: 123524")
